@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77f92e6d-4ecb-422a-b86f-6c78dec6ec47" name="Changes" comment="Updated version to 2.2.4">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ErosionGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/GaussianKernel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IDW.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Kriging_old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/NN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Phong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo_geo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo_geo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +89,9 @@
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="main" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -96,14 +109,11 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/keyboardcat1/Erosio.git&quot;,
-    &quot;accountId&quot;: &quot;913feb30-e60e-40a7-a5cb-ff786f8e186f&quot;
+    &quot;url&quot;: &quot;https://github.com/keyboardcat1/Erosio/&quot;,
+    &quot;accountId&quot;: &quot;bf6d395c-b6b2-4106-a58f-580015e0c468&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kynosarges/tektosyne/6.2.0/4c513e669ae179106ceeac13bf7d95c562964084/tektosyne-6.2.0-sources.jar!/org/kynosarges/tektosyne/geometry/RectD.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kynosarges/tektosyne/6.2.0/4c513e669ae179106ceeac13bf7d95c562964084/tektosyne-6.2.0-sources.jar!/org/kynosarges/tektosyne/geometry/VoronoiResults.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.8-bin/dl7vupf4psengwqhwktix4v1/gradle-8.8" javaHome="/usr/lib/jvm/default" gradleVersion="8.8" />
   <component name="KotlinScriptingSettings">
     <option name="suppressDefinitionsCheck" value="true" />
   </component>
@@ -117,43 +127,44 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2YywpJaxGkVEoKLC9gkzvvyu7q8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Demo_geo.executor&quot;: &quot;Run with VisualVM&quot;,
-    &quot;Application.com.github.keyboardcat1.erosio.Demo_geo.executor&quot;: &quot;Run with VisualVM&quot;,
-    &quot;Gradle.Build Erosio.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:Demo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:Demo1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:Demo_geo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:com.github.keyboardcat1.erosio.Demo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:com.github.keyboardcat1.erosio.Demo_geo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [:com.github.keyboardcat1.erosio.rendering.Renderer.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [init].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Erosio [javadoc].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.rivers2 [:Demo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.rivers2 [javadocJar].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/keyboardcat/Documents/Erosio&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/keyboardcat/Documents/rivers2/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.Demo_geo.executor": "Run with VisualVM",
+    "Application.com.github.keyboardcat1.erosio.Demo_geo.executor": "Run with VisualVM",
+    "Gradle.Build Erosio.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.Erosio [:Demo.main()].executor": "Run",
+    "Gradle.Erosio [:Demo1.main()].executor": "Run",
+    "Gradle.Erosio [:Demo_geo.main()].executor": "Run",
+    "Gradle.Erosio [:ErosionGUI.main()].executor": "Run",
+    "Gradle.Erosio [:com.github.keyboardcat1.erosio.Demo.main()].executor": "Run",
+    "Gradle.Erosio [:com.github.keyboardcat1.erosio.Demo_geo.main()].executor": "Run",
+    "Gradle.Erosio [:com.github.keyboardcat1.erosio.rendering.Renderer.main()].executor": "Run",
+    "Gradle.Erosio [init].executor": "Run",
+    "Gradle.Erosio [javadoc].executor": "Run",
+    "Gradle.rivers2 [:Demo.main()].executor": "Run",
+    "Gradle.rivers2 [javadocJar].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/caic/IdeaProjects/Erosio",
+    "onboarding.tips.debug.path": "/home/keyboardcat/Documents/rivers2/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -169,16 +180,17 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo_geo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="Application.ErosionGUI">
+    <configuration name="Demo_geo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo_geo" />
       <module name="erosio.test" />
+      <option name="PROGRAM_PARAMETERS" value="-Xmx10G" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_geo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo_geo" />
+    <configuration name="ErosionGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErosionGUI" />
       <module name="erosio.test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,13 +253,32 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Erosio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Erosio" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ErosionGUI" />
+      <item itemvalue="Application.Demo_geo" />
+      <item itemvalue="Application.com.github.keyboardcat1.erosio.Demo_geo" />
+      <item itemvalue="Gradle.Erosio [javadocJar]" />
+      <item itemvalue="Gradle.Erosio [javadoc]" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ErosionGUI" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Gradle.Erosio [javadoc]" />
         <item itemvalue="Application.com.github.keyboardcat1.erosio.Demo_geo" />
         <item itemvalue="Application.Demo_geo" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Gradle.Erosio [javadocJar]" />
       </list>
     </recent_temporary>
   </component>
