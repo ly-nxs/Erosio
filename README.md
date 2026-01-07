@@ -1,6 +1,6 @@
-# Erosio
+# Erosio Preview 
 
-A Java API for fast erosion
+A Java API for fast erosion, now with sliders and a live 3d and 2d preview
 
 ## Overview
 
